@@ -15,15 +15,6 @@ Frontend development with clean UI/UX
 
 Git, GitHub & collaborative workflows
 
-🛠 Tech Stack
-
-Languages: Python, JavaScript
-
-Web: HTML5, CSS3
-
-Tools: Git, GitHub, Figma
-
-Concepts: OOP, Basic ML models, DSA
 
 📌 Goals
 
