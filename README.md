@@ -1,5 +1,41 @@
 # 💫 About Me:
-B.Tech CSE (AI/ML) student passionate about exploring intelligent systems and the world of machine learning. I’m learning Python, JavaScript, HTML, CSS, and using Figma to design interactive, user-focused interfaces.<br><br>I’m fascinated by web technologies, AI/ML models, and automation workflows, and I enjoy experimenting with machine learning pipelines, data preprocessing, and algorithmic problem-solving.<br><br>Currently focused on strengthening my foundations in programming, AI/ML frameworks, and data-driven solutions, with the goal of building impactful, real-world intelligent systems in the future.
+🎓 B.Tech CSE (AI & ML) Student
+💻 Passionate about Intelligent Systems & Clean Code
+🚀 Building projects while mastering fundamentals
+
+I'm a first-year Computer Science student specializing in Artificial Intelligence and Machine Learning. I focus on strengthening my core foundations in Data Structures, Algorithms, and problem-solving while building practical projects that blend logic with creativity.
+
+🧠 Currently Exploring
+
+Machine Learning fundamentals
+
+Python for data-driven applications
+
+Frontend development with clean UI/UX
+
+Git, GitHub & collaborative workflows
+
+🛠 Tech Stack
+
+Languages: Python, JavaScript
+
+Web: HTML5, CSS3
+
+Tools: Git, GitHub, Figma
+
+Concepts: OOP, Basic ML models, DSA
+
+📌 Goals
+
+Build impactful AI-based mini projects
+
+Contribute to open-source
+
+Develop scalable and structured code habits
+
+Grow into a strong AI/ML engineer
+
+I believe in learning deeply, building consistently, and improving 1% every day.
 
 
 ## 🌐 Socials:
